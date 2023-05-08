@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.List;
 
+// Controller
+
 @Controller
 public class HomeController {
 
